@@ -1,0 +1,8 @@
+runpod:
+  base_path: /runpod-volume/comfyui/models
+  checkpoints: checkpoints
+  controlnet: controlnet
+  vae: vae
+  clip: clip
+  loras: loras
+  ipadapter: ipadapter
